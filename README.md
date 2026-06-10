@@ -1,37 +1,21 @@
-# 👋 Welcome to my DevOps & Cloud Engineering Portfolio
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=danish-ali-droid&color=blueviolet&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/danish-ali-droid?style=flat-square)
-
-**Aspiring DevOps & Cloud Engineer | BS IT Student (Batch 2020-2026)**
-
-> Passionate about **Infrastructure Automation**, **Cloud Architecture**, **Containerization**, and **CI/CD Pipeline Engineering**
-
-[🔗 LinkedIn](#-connect-with-me) • [📧 Email](#-connect-with-me) • [🐙 GitHub](https://github.com/danish-ali-droid)
-
-</div>
-
----
-
-## 🎯 About Me
+##  About Me
 
 I'm **Danish Ali**, a dedicated IT student specializing in **DevOps Engineering** and **Cloud Infrastructure**. My expertise spans across:
 
-- **☁️ Cloud Platforms**: AWS (EC2, RDS, S3, Lambda, VPC, ALB, Auto Scaling)
-- **🐳 Containerization & Orchestration**: Docker, Docker Compose, Kubernetes
-- **🔄 CI/CD Pipelines**: GitHub Actions, AWS CodePipeline, CodeBuild, CodeDeploy
-- **🛠️ Infrastructure as Code**: Bash Scripting, Automation, System Administration
-- **🔐 Security & Networking**: SSL/TLS, Firewalls, Load Balancing, VPC Design
+- ** Cloud Platforms**: AWS (EC2, RDS, S3, Lambda, VPC, ALB, Auto Scaling)
+- ** Containerization & Orchestration**: Docker, Docker Compose, Kubernetes
+- ** CI/CD Pipelines**: GitHub Actions, AWS CodePipeline, CodeBuild, CodeDeploy
+- ** Infrastructure as Code**: Bash Scripting, Automation, System Administration
+- ** Security & Networking**: SSL/TLS, Firewalls, Load Balancing, VPC Design
 
 My projects demonstrate hands-on experience with **production-grade architectures**, **multi-tier deployments**, **hybrid cloud solutions**, and **automated deployment workflows**.
 
 ---
 
-## 🛠️ Technical Skill Toolchain
+##  Technical Skill Toolchain
 
-### **☁️ Cloud & Infrastructure**
+###  Cloud & Infrastructure**
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -40,7 +24,7 @@ My projects demonstrate hands-on experience with **production-grade architecture
 | **Database** | MariaDB, PostgreSQL, AWS RDS (Multi-AZ, Replication) |
 | **Storage** | S3 (Buckets, IAM Policies), EBS Volumes, Docker Hub Registry |
 
-### **🐳 Containers & Orchestration**
+###  Containers & Orchestration**
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -48,7 +32,7 @@ My projects demonstrate hands-on experience with **production-grade architecture
 | **Container Registry** | Amazon ECR, Docker Hub |
 | **Orchestration** | Kubernetes (Pods, Deployments, ReplicaSets, Services) |
 
-### **🔄 CI/CD & DevOps**
+###  CI/CD & DevOps**
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -56,7 +40,7 @@ My projects demonstrate hands-on experience with **production-grade architecture
 | **Configuration** | buildspec.yml, appspec.yml, GitHub Workflows, Docker Image Tagging |
 | **Deployment** | Blue-Green Deployment, Automated Rollback, Zero-Downtime Updates |
 
-### **🖥️ Operating Systems & Administration**
+###  Operating Systems & Administration**
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -64,7 +48,7 @@ My projects demonstrate hands-on experience with **production-grade architecture
 | **System Administration** | Process Management, LVM, RAID, Package Management (DNF/YUM), Cron, Systemd |
 | **Networking** | SSH, Firewalls, firewalld, SELinux, Network Configuration, HTTPS/SSL |
 
-### **🌐 Web Servers & Reverse Proxies**
+###  Web Servers & Reverse Proxies**
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -72,7 +56,7 @@ My projects demonstrate hands-on experience with **production-grade architecture
 | **Reverse Proxying** | SSL Termination, Load Balancing, Virtual Hosting |
 | **Advanced Features** | Upstream Blocks, Health Checks, Weighted Routing, Header Manipulation |
 
-### **💻 Programming & Scripting**
+###  Programming & Scripting**
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -83,7 +67,7 @@ My projects demonstrate hands-on experience with **production-grade architecture
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 1. **amplify-vm-rds-deployment** — Hybrid 3-Tier Architecture
 **Status**: Production-Grade | **Stack**: React, PHP, MariaDB, AWS, Docker, Cloudflare
@@ -281,7 +265,7 @@ Kubernetes resource management demonstrations:
 
 ---
 
-## 📊 Development Metrics
+##  Development Metrics
 
 <div align="center">
 
@@ -292,15 +276,15 @@ Kubernetes resource management demonstrations:
 </div>
 
 **Code Contribution Profile**:
-- 🎯 **Daily Commits**: Active development & continuous learning
-- 🔧 **Regex Labs**: Troubleshooting and pattern mastery
-- 🚀 **Pipeline Optimization**: Performance tuning across all projects
-- 📚 **Documentation**: Comprehensive README files with architectural diagrams
-- 🏗️ **Infrastructure**: Multi-tenant, multi-AZ, highly available systems
+-  **Daily Commits**: Active development & continuous learning
+-  **Regex Labs**: Troubleshooting and pattern mastery
+-  **Pipeline Optimization**: Performance tuning across all projects
+-  **Documentation**: Comprehensive README files with architectural diagrams
+-  **Infrastructure**: Multi-tenant, multi-AZ, highly available systems
 
 ---
 
-## 🎓 Learning Objectives & Career Path
+##  Learning Objectives & Career Path
 
 ### Current Focus
 - **Infrastructure Automation** via Infrastructure as Code (Terraform, CloudFormation)
@@ -317,7 +301,7 @@ Kubernetes resource management demonstrations:
 
 ---
 
-## 🏆 Key Achievements
+##  Key Achievements
 
 | Achievement | Details |
 |:-----------|:--------|
@@ -328,44 +312,4 @@ Kubernetes resource management demonstrations:
 | **CI/CD Pipelines** | 4+ fully automated deployment workflows with GitHub Actions & AWS CodePipeline |
 | **Infrastructure Scale** | Multi-AZ, load-balanced, fault-tolerant architectures |
 
----
 
-## 📝 Technical Documentation
-
-All projects include:
-- 📐 **Architecture Diagrams** — Visual system design
-- 📚 **Deep-Dive READMEs** — Comprehensive technical breakdown
-- 🔧 **Configuration Files** — Ready-to-use templates
-- 🚀 **Deployment Guides** — Step-by-step implementation
-- 🧪 **Testing Procedures** — Validation and troubleshooting
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-danish--ali-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email Badge](https://img.shields.io/badge/Email-danish.ali@example.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-danish--ali--droid-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danish-ali-droid)
-
-**Let's collaborate on DevOps projects, infrastructure challenges, and cloud innovations!**
-
-Open to:
-- 🤝 DevOps Internship Opportunities
-- 💡 Infrastructure Architecture Projects
-- 📚 Open Source Contributions
-- 🎯 Knowledge Sharing & Mentoring
-
-</div>
-
----
-
-<div align="center">
-
-### Built with ❤️ by Danish Ali | Last Updated: June 2026
-
-![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
-![Open Source Love](https://img.shields.io/badge/Open%20Source-❤-1f425f.svg)
-
-</div>
