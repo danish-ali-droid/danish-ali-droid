@@ -3,11 +3,11 @@
 
 I'm **Danish Ali**, a dedicated IT student specializing in **DevOps Engineering** and **Cloud Infrastructure**. My expertise spans across:
 
-- ** Cloud Platforms**: AWS (EC2, RDS, S3, Lambda, VPC, ALB, Auto Scaling)
-- ** Containerization & Orchestration**: Docker, Docker Compose, Kubernetes
-- ** CI/CD Pipelines**: GitHub Actions, AWS CodePipeline, CodeBuild, CodeDeploy
-- ** Infrastructure as Code**: Bash Scripting, Automation, System Administration
-- ** Security & Networking**: SSL/TLS, Firewalls, Load Balancing, VPC Design
+- **Cloud Platforms**: AWS (EC2, RDS, S3, Lambda, VPC, ALB, Auto Scaling)
+- **Containerization & Orchestration**: Docker, Docker Compose, Kubernetes
+- **CI/CD Pipelines**: GitHub Actions, AWS CodePipeline, CodeBuild, CodeDeploy
+- **Infrastructure as Code**: Bash Scripting, Automation, System Administration
+- **Security & Networking**: SSL/TLS, Firewalls, Load Balancing, VPC Design
 
 My projects demonstrate hands-on experience with **production-grade architectures**, **multi-tier deployments**, **hybrid cloud solutions**, and **automated deployment workflows**.
 
