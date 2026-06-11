@@ -15,7 +15,7 @@ My projects demonstrate hands-on experience with **production-grade architecture
 
 ##  Technical Skill Toolchain
 
-###  Cloud & Infrastructure**
+###  **Cloud & Infrastructure**
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -24,7 +24,7 @@ My projects demonstrate hands-on experience with **production-grade architecture
 | **Database** | MariaDB, PostgreSQL, AWS RDS (Multi-AZ, Replication) |
 | **Storage** | S3 (Buckets, IAM Policies), EBS Volumes, Docker Hub Registry |
 
-###  Containers & Orchestration**
+###  **Containers & Orchestration**
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -32,7 +32,7 @@ My projects demonstrate hands-on experience with **production-grade architecture
 | **Container Registry** | Amazon ECR, Docker Hub |
 | **Orchestration** | Kubernetes (Pods, Deployments, ReplicaSets, Services) |
 
-###  CI/CD & DevOps**
+###  **CI/CD & Deployment**
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -40,7 +40,7 @@ My projects demonstrate hands-on experience with **production-grade architecture
 | **Configuration** | buildspec.yml, appspec.yml, GitHub Workflows, Docker Image Tagging |
 | **Deployment** | Blue-Green Deployment, Automated Rollback, Zero-Downtime Updates |
 
-###  Operating Systems & Administration**
+###  **Operating Systems & Administration**
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -48,7 +48,7 @@ My projects demonstrate hands-on experience with **production-grade architecture
 | **System Administration** | Process Management, LVM, RAID, Package Management (DNF/YUM), Cron, Systemd |
 | **Networking** | SSH, Firewalls, firewalld, SELinux, Network Configuration, HTTPS/SSL |
 
-###  Web Servers & Reverse Proxies**
+###  **Web Servers & Reverse Proxies**
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -56,7 +56,7 @@ My projects demonstrate hands-on experience with **production-grade architecture
 | **Reverse Proxying** | SSL Termination, Load Balancing, Virtual Hosting |
 | **Advanced Features** | Upstream Blocks, Health Checks, Weighted Routing, Header Manipulation |
 
-###  Programming & Scripting**
+###  **Programming & Scripting**
 
 | Category | Technologies |
 |:---------|:-------------|
